@@ -1,0 +1,4 @@
+﻿"ID","Title","Case ID","Defects","Priority","Run","Run ID","Status"
+"T9","Praca w trybie kapitana drużyny - przypadek negatywny","C20","PK-32","Medium","Test Run no 2","R2","Failed"
+"T10","Praca w trybie Kapitana drużyny - przypadek negatywny ver.2","C21","","Medium","Test Run no 2","R2","Passed"
+"T8","Zmiana ilości punktów na wersji serwerowej aplikacji Mr Buggy 3","C19","","Medium","Test Run no 2","R2","Passed"

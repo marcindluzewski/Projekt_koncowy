@@ -1,0 +1,7 @@
+﻿"ID","Title","Case ID","Defects","Priority","Run","Run ID","Status"
+"T1","Sprawdzenie zgodności aplikacji z systemem operacyjnym Windows 8/8.1","C2","","Medium","Test Run no 1","R1","Passed"
+"T2","[Interfejs] Ikona MrBuggy 3 widoczna w oknie aplikacji","C3","","Medium","Test Run no 1","R1","Blocked"
+"T3","Utrata połączenia sieciowego","C4","PK-100","Medium","Test Run no 1","R1","Failed"
+"T4","Aplikacja nie może używać  więcej niż 100MB pamięci","C5","","Medium","Test Run no 1","R1","Retest"
+"T5","Niespodziewane zamknięcie aplikacji","C13","PK-459","Medium","Test Run no 1","R1","Failed"
+"T6","Próba utworzenia kopi zapasowej, w trybie zawodnika aplikacji.","C14","","Medium","Test Run no 1","R1","Passed"
